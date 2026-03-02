@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "298131017594",
+    "project_id": "exercicios-7d517",
+    "storage_bucket": "exercicios-7d517.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298131017594:android:b89b48aa1a45ad60a650c3",
+        "android_client_info": {
+          "package_name": "com.example.treinamento_trabalho_final"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALPy9Ke_IiFtGL5o31O-CjUTEwRVNe_a0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
