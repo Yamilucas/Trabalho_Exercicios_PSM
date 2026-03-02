@@ -18,8 +18,8 @@ O projeto está organizado na seguinte estrutura de arquivos:
 - **Color.kt** – Definição das cores utilizadas na interface gráfica com **Jetpack Compose**
 - **Theme.kt** – Configuração do tema e esquema de cores da interface gráfica com **Jetpack Compose**
 - **Type.kt** – Configuração das fontes da interface gráfica utilizando **Jetpack Compose**
-- **ListaExercicios.kt** – Define a interface de listagem e exclusão dos exercícios no **Firebase**, utilizando **Jetpack Compose**.
-- **SalvarExercicio.kt** – Define a interface para salvar os exercícios no **Firebase** com **Jetpack Compose**.
+- **ListaExercicios.kt** – Interface de listagem e exclusão de exercícios no **Firebase** com **Jetpack Compose**
+- **SalvarExercicio.kt** – Interface para salvar os exercícios no **Firebase** com **Jetpack Compose**
 - **MainActivity.kt** – Inicializa o Firebase, configura a navegação e o preview da interface gráfica
 
 ## Funcionalidades
@@ -41,6 +41,7 @@ O projeto está organizado na seguinte estrutura de arquivos:
 - Aplicação executada em dispositivo ou emulador **Android** do **Android Studio**
 - Comunicação direta com o banco de dados em nuvem via **Firebase**
 - Atualização automática da interface conforme alterações no banco
+
 
 
 
