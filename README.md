@@ -15,13 +15,13 @@ A aplicação foi desenvolvida no **Android Studio**, utilizando a linguagem de 
 
 O projeto está organizado na seguinte estrutura de arquivos:
 
-- **google-services.json** – Arquivo de configuração do Google que permite a integração com o banco de dados **Firebase**
+- **google-services.json** – Arquivo de configuração que permite a integração com o banco de dados **Firebase**
 - **CaixaDeTexto.kt** – Componente gráfico desenvolvido com **Jetpack Compose**, utilizado na interface da aplicação
-* **ExerciciosDataSource.kt** – Responsável por gerenciar os dados (cadastro, listagem e exclusão) no **Firebase Cloud Firestore**
+- **ExerciciosDataSource.kt** – Responsável por gerenciar os dados (cadastro, listagem e exclusão) no **Firebase**
 - **Exercicio.kt** – Classe que representa os atributos do exercício
 - **Color.kt** – Definição das cores utilizadas na interface gráfica com **Jetpack Compose**
 - **Theme.kt** – Configuração do tema e esquema de cores da interface gráfica com **Jetpack Compose**
-* **Type.kt** – Configuração das fontes da interface gráfica utilizando **Jetpack Compose**.
+- **Type.kt** – Configuração das fontes da interface gráfica utilizando **Jetpack Compose**.
 - **MainActivity.kt** – Inicializa o Firebase, configura a navegação e o preview da interface gráfica
 
 ## Funcionalidades
@@ -43,6 +43,7 @@ O projeto está organizado na seguinte estrutura de arquivos:
 
 ## Estrutura de Execução
 
-- Aplicação executada em dispositivo ou emulador Android
-- Comunicação direta com o banco de dados em nuvem via Firebase
+- Aplicação executada em dispositivo ou emulador **Android** do **Android Studio**
+- Comunicação direta com o banco de dados em nuvem via **Firebase**
 - Atualização automática da interface conforme alterações no banco
+
